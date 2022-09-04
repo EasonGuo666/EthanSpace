@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { Container, Nav, Navbar } from "react-bootstrap";
 import logo from '../assets/img/logo.svg';
+import photo from '../assets/img/profilephoto.jpg'
 import linkedInIcon from '../assets/img/nav-icon1.svg';
 import githubIcon from '../assets/img/nav-icon2.svg';
 import instagramIcon from '../assets/img/nav-icon3.svg';
@@ -31,7 +32,7 @@ export const NavBar = () => {
     <Navbar expand='lg' className={scrolled ? "scrolled" : ""}>
       <Container>
         <Navbar.Brand href='#home'>
-          <img src={logo} alt='Logo' />
+          <img className='profile-photo' src={photo} alt={logo} />
         </Navbar.Brand>
         <Navbar.Toggle aria-controls='basic-navbar-nav'>
           <span className='navbar-toggler-icon'></span>
