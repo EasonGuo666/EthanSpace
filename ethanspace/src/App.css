@@ -33,7 +33,7 @@ body {
   font-weight: 400;
   overflow-x: hidden;
   position: relative;
-  background-color: #121212 !important;
+  background-color: #202020 !important;
   color: #fff !important;
   font-family: 'Centra', sans-serif !important;
 }
@@ -245,7 +245,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 
 
 /*below is originally in the file*/
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -282,4 +282,4 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   to {
     transform: rotate(360deg);
   }
-}
+} */
