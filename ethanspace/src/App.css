@@ -112,6 +112,11 @@ nav.navbar .navbar-nav a.nav-link.navbar-link:hover,
 nav.navbar .navbar-nav a.nav-link.navbar-link.active {
     opacity: 1;
 }
+
+nav.navbar .profile-photo {
+  border-radius: 50%;
+}
+
 span.navbar-text {
     display: flex;
     align-items: center;
