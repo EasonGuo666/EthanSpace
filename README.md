@@ -1,2 +1,2 @@
 # EthanSpace
-My personal intro website built using ReactJS
+My personal intro website built with ReactJS
