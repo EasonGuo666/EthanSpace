@@ -11,7 +11,6 @@ export const Banner = () => {
             {/* <span className="tagline">Welcome to my space</span> */}
             <h1>{"Hi there! I'm Yixuan,"}</h1>
             <h1>{"a full stack developer."}</h1>
-            <p>nihao</p>
           </Col>
         </Row>
       </Container>
