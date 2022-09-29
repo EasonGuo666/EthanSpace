@@ -5,6 +5,7 @@ import photo from '../assets/img/profilephoto.jpg'
 import linkedInIcon from '../assets/img/nav-icon1.svg';
 import githubIcon from '../assets/img/nav-icon2.svg';
 import instagramIcon from '../assets/img/nav-icon3.svg';
+import "../styles/NavBar.css";
 
 
 export const NavBar = () => {
